@@ -1,0 +1,5 @@
+export USER_NAME='b3411129-fe19-44fd-bfd9-08daeeed9868'
+export USER_PASSWORD='yRT2mXh0mtJd'
+export YELP_TOKEN='2LX0aNwGWk2fXzJJzs45jCzc6E0eFetqxGU6zpd_h8UKlL4hM-BC493CF2GyUmcKOsUpSN3kzGp1qnx5NR2NZ9g6hnrzS2mBuRTgEiava1S2n8VLaILwIBK4zlxLWXYx'
+export MAILER_USER='eatbeforeyouspeak@gmail.com'
+export MAILER_PWD='SMUstudent2017'

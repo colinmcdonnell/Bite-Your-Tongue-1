@@ -165,7 +165,7 @@ function sendMail(email, message) {
     let mailOptions = {
         from: '"BYT" <eatbeforeyouspeak@gmail.com>', // sender address
         to: email, // list of receivers
-        subject: 'Hello ✔', // Subject line
+        subject: 'Your thoughts when hungry', // Subject line
         text: message, // plain text body
         html: message // html body
     };
